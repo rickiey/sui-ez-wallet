@@ -61,6 +61,11 @@ create task:
 wallet address: 0x9b8ec12f93f25dfa23df39b5011056c917789346d98d0d038e603541bfae6de7
 private key: suiprivkey1qqcphnx7efm5f5spj9p9yjxwxfnequavsrc3gj8qrnmk43kcdmz7w85e8lx
 
+$ ./ez-wallet c myname
+create task:
+wallet address: 0x9b8ec12f93f25dfa23df39b5011056c917789346d98d0d038e603541bfae6de7
+private key: suiprivkey1qqcphnx7efm5f5spj9p9yjxwxfnequavsrc3gj8qrnmk43kcdmz7w85e8lx
+
 $ ./ez-wallet c wallet-1
 create task:
 wallet address: 0xc8dbea3e25e83b45ebd4d58852c912334fbed7210becdf96aeba07bf601384d7
